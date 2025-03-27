@@ -13,25 +13,3 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Scientist;DevOps+Engineer;Open+Source+Enthusiast&center=true&width=380&height=45">
   </p>
 </div>
-
-## 🧠 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Full Stack Developer"
-        self.location = "City, Country"
-        self.languages_spoken = ["English", "Spanish", "French"]
-        self.education = {
-            "degree": "Master's in Computer Science",
-            "university": "University Name",
-            "graduation_year": 2022
-        }
-        self.interests = ["AI", "Open Source", "Cloud Computing", "IoT"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = Developer()
-me.say_hi()
