@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/durtlcmnb/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1739958267/Healthcare_user_profile/tsaklxh888jk2wrovwjz.jpg" alt="Profile Banner" width="10%" height="10%">
+  <img src="https://res.cloudinary.com/durtlcmnb/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1739958267/Healthcare_user_profile/tsaklxh888jk2wrovwjz.jpg" width="10%" height="10%">
   
   # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bhavin Sorathiya
   
